@@ -1,3 +1,11 @@
+---
+layout: default
+title: Node class
+parent: Development
+nav_order: 1
+permalink: /development/node
+---
+
 # Node class
 
 Node is an abstract class that should be used as base class for defining specific node types.
